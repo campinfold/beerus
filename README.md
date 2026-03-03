@@ -1,9 +1,25 @@
-# this is a title for the readme
+Group meeting report week 1
+Sponsor:	John Jamieson	Name of Group:	e.g. Group 1
+Group Lead:	Joshua 	Note taker:
+Joshua
+Attendees:
+Cameron, Charlie
+Please bring:
+Laptop
+Agenda items:	1.	Stakeholders
 
-## this is a second level heading
 
-there is a **bold** word in this sentence.
+Agenda Item 1:	Stakeholders	
+Presenter: Joshua 
+Discussion:
+To get started right away, just tap any placeholder text (such as this) and start typing to replace it with your own.
+Conclusions:
+Enter conclusions here.
+Action items
+Person responsible
+Deadline
 
-## third level heading, you get the picture
-
-[random url](https:/stackedit.io)
+Action Items              Person responsible         Deadline
+Create Stakeholder        Joshua                     next meeting  
+Create Stakeholder        Cameron                    next meeting
+Create Stakeholder        Charlie                    next meeting
