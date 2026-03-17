@@ -72,11 +72,11 @@ Agenda items:	Persona's
 
 **Action Items, Person Responsible, Deadline:**      
                          
-Review a Persona, Joshua, Next meeting  
+Review the Personas, Joshua, Next meeting  
 
-Review a Persona, Cameron, Next meeting   
+Review the Personas, Cameron, Next meeting   
 
-Review a Persona, Charlie, Next meeting
+Review the Personas, Charlie, Next meeting
 
 
 **Date of next meeting**: 03/03/2026
