@@ -68,7 +68,7 @@ Agenda items:	Persona's
 
 **Discussion**: We need to each review the 3 persona's, include first and final impresions.
 
-**Conclusions**: Each add a review to the bottom of the 3 personas in the github.
+**Conclusions**: Each add a document to the GitHub with your reviews on it.
 
 **Action Items, Person Responsible, Deadline:**      
                          
