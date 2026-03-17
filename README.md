@@ -11,7 +11,7 @@ Agenda items:	Stakeholders
 
 **Discussion**: We need to create 3 stakeholders with a Strong, Neutral, and Weak influence. Also make sure they have a mixture of neutral and strong interest.
 
-**Conclusions**: Use the stakeholder register template and finsih them by the next meeting.
+**Conclusions**: Use the stakeholder register template and finish them by the next meeting.
 
 **Action Items, Person Responsible, Deadline:**      
                          
