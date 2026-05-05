@@ -204,6 +204,9 @@ Continue working on Gantt Chart, Cameron, Next meeting
 **Date of next meeting**: 22/04/2026
 
 
+# Gantt chart #
+![gantt chart](gantt-chart.png)
+
 
 # Group meeting report Week 8
 Sponsor: John Jamieson	Name of Group: e.g. Group 1
