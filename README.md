@@ -205,7 +205,7 @@ Continue working on Gantt Chart, Cameron, Next meeting
 
 
 # Gantt chart #
-![gantt chart](gantt-chart.png)
+![gantt chart](Gantt-chart.png)
 
 
 # Group meeting report Week 8
