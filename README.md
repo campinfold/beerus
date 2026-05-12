@@ -233,3 +233,29 @@ Write a 150 word paragraph, Charlie, Next meeting
 
 
 **Date of next meeting**: 29/04/2026
+
+# Group meeting report Week 9
+Sponsor: John Jamieson	Name of Group: e.g. Group 1
+Group Lead: Joshua 
+Note taker: Joshua
+Attendees: Cameron, Charlie
+Agenda items:	Project Progress
+
+
+## Agenda Item 1:	Project Progress	
+**Presenter**: cameron
+
+**Discussion**: we all completed our 150 word paragraph for the progress report 
+
+**Conclusions**: The group has completed iteration 2 and is ready to progress to iteration 3 
+
+**Action Items, Person Responsible, Deadline:**      
+                         
+discuss plans for next iteration, Joshua, Next meeting  
+
+discuss plans for next iteration, Cameron, Next meeting   
+
+discuss plans for next iteration, Charlie, Next meeting  
+
+
+**Date of next meeting**: 06/05/2026
