@@ -26,7 +26,8 @@ Create Stakeholder, Charlie, Next meeting
 
 **Date of next meeting**: 17/02/2026
 
-
+# Stakeholder register #
+![stakeholder-register](stakeholder-register-screenshot.png)
 
 # Group meeting report Week 2
 Sponsor:	John Jamieson	Name of Group:	e.g. Group 1
@@ -54,7 +55,14 @@ Create a Persona, Charlie, Next meeting
 
 **Date of next meeting**: 24/02/2026
 
+# Persona 1 #
+![Persona-1](camerons-persona-screenshot.png)
 
+# Persona 2 #
+![Persona-2](charlies-persona-screenshot.png)
+
+# Persona 3 #
+![Persona-3](joshs-persona-screenshot.png)
 
 
 # Group meeting report Week 3
@@ -233,6 +241,9 @@ Write a 150 word paragraph, Charlie, Next meeting
 
 
 **Date of next meeting**: 29/04/2026
+
+# Resource table #
+![Resource-table](resource-table-screenshot.png)
 
 # Group meeting report Week 9
 Sponsor: John Jamieson	Name of Group: e.g. Group 1
