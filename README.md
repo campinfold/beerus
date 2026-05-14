@@ -282,13 +282,13 @@ Agenda items:	Project Progress
 ## Agenda Item 1:	Project Progress	
 **Presenter**: Charlie 
 
-**Discussion**: Charlie has started working on the risk register. Joshua & Cameron are working on finalizing the README and organizing the repository.
+**Discussion**: Charlie has started working on the risk register. Joshua is updating the Gantt Chart. Joshua & Cameron are working on finalizing the README and organizing the repository.
 
 **Conclusions**: The group is starting to work through and contribute towards Iteration 3.
 
 **Action Items, Person Responsible, Deadline:**      
                          
-Finalizing README and organizing repository, Joshua, Next meeting  
+Update Gantt Chart, Finalizing README, and organizing repository, Joshua, Next meeting  
 
 Finalizing README and organizing repository, Cameron, Next meeting   
 
@@ -308,7 +308,7 @@ Agenda items:	Project Progress
 ## Agenda Item 1:	Project Progress	
 **Presenter**: Charlie 
 
-**Discussion**: Charlie has completed 8 rows of the risk register. Joshua & Cameron have made great progress on the README and organizing the repository.
+**Discussion**: Charlie has completed 8 rows of the risk register. Joshua has added more to the Gantt Chart. Joshua & Cameron have made great progress on the README and organizing the repository.
 
 **Conclusions**: The group is now all continuing to work through and contribute towards Iteration 3.
 
