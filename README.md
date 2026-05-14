@@ -270,3 +270,57 @@ discuss plans for next iteration, Charlie, Next meeting
 
 
 **Date of next meeting**: 06/05/2026
+
+# Group meeting report Week 10
+Sponsor: John Jamieson	Name of Group: e.g. Group 1
+Group Lead: Joshua 
+Note taker: Joshua
+Attendees: Cameron, Charlie
+Agenda items:	Project Progress
+
+
+## Agenda Item 1:	Project Progress	
+**Presenter**: Charlie 
+
+**Discussion**: Charlie has started working on the risk register. Joshua & Cameron are working on finalizing the README and organizing the repository.
+
+**Conclusions**: The group is starting to work through and contribute towards Iteration 3.
+
+**Action Items, Person Responsible, Deadline:**      
+                         
+Finalizing README and organizing repository, Joshua, Next meeting  
+
+Finalizing README and organizing repository, Cameron, Next meeting   
+
+Working on Risk Register, Charlie, Next meeting  
+
+
+**Date of next meeting**: 13/05/2026
+
+# Group meeting report Week 11
+Sponsor: John Jamieson	Name of Group: e.g. Group 1
+Group Lead: Joshua 
+Note taker: Joshua
+Attendees: Cameron, Charlie
+Agenda items:	Project Progress
+
+
+## Agenda Item 1:	Project Progress	
+**Presenter**: Charlie 
+
+**Discussion**: Charlie has completed 8 rows of the risk register. Joshua & Cameron have made great progress on the README and organizing the repository.
+
+**Conclusions**: The group is now all continuing to work through and contribute towards Iteration 3.
+
+**Action Items, Person Responsible, Deadline:**      
+                         
+Help contribute to all parts of Iteration 3, Joshua, Next meeting  
+
+Help contribute to all parts of Iteration 3, Cameron, Next meeting   
+
+Help contribute to all parts of Iteration 3, Charlie, Next meeting  
+
+
+**Date of next meeting**: 20/05/2026
+
+# Risk Register #
